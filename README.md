@@ -10,7 +10,7 @@ This is an **open source ❤** nation simulator with following features:
 
 
 
-## Tech Stack
+## ⚡ Tech Stack
 
 **Client:** React, Redux, CSS
 
@@ -18,14 +18,14 @@ This is an **open source ❤** nation simulator with following features:
 
 
   
-## Authors
+## 👨🏻‍💻 Authors
 
 - [@arpitpandey](https://github.com/ArpitPy)
 - [@jesseboyd](https://github.com/boy0001)
 - [@simone](https://github.com/SimonePY)
 
   
-## License
+## 🎫 License
 
 [MIT](https://github.com/ArpitPy/nation-simulator/blob/main/LICENSE)
 
